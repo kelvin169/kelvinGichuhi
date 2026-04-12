@@ -111,7 +111,7 @@ Each blog post is a card in the `#blog` section of `index.html`. To add a new po
 
 ## Contact
 
-- **Email:** kelvin@example.com
+- **Email:** kelvinmwaniki8@gmail.com
 - **GitHub:** [@kelvinmwaniki](https://github.com/kelvin169)
 - **LinkedIn:** [linkedin.com/in/kelvinmwaniki](https://linkedin.com/in/kelvinmwaniki)
 
