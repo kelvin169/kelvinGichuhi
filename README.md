@@ -10,11 +10,11 @@
 
 This is the source code for my personal portfolio website. It serves as a central hub for:
 
-- My professional background and technical skill set
+- My professional background and technical skill set.
 - Blog posts documenting real firmware and automation projects
 - Links to my open-source work on GitHub
 
-Built as a single, dependency-free HTML file — no frameworks, no build step, no nonsense.
+Built as a single, dependency-free HTML file — no frameworks, no build step.
 
 ---
 
