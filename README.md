@@ -105,6 +105,7 @@ Each blog post is a card in the `#blog` section of `index.html`. To add a new po
 - Modbus RTU from Scratch over RS-485
 - Ladder Logic vs Structured Text (IEC 61131-3)
 - CAN Bus on ESP32 with the TWAI peripheral
+- MQTT and HTTP protocols 
 - *(More coming — follow along!)*
 
 ---
