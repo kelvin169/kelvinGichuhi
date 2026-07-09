@@ -1,6 +1,6 @@
 # Kelvin Mwaniki — Portfolio Website
 
-> Personal portfolio and engineering blog for a Firmware & Industrial Automation Engineer based in Nairobi, Kenya.
+> Personal portfolio and engineering blog for a Firmware & Industrial Automation Engineer.
 
 **Live site:** [kelvinmwaniki.github.io](https://kelvinGichuhi.github.io)
 
